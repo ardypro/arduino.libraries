@@ -1,0 +1,5 @@
+Am2302Sensor	KEYWORD1
+~Am2302Sensor	KEYWORD2
+startMeasurement	KEYWORD2
+getResult		KEYWORD2
+toString	KEYWORD2

@@ -1,0 +1,11 @@
+This is a work in progress.
+
+This library is intended primarily as learning process for me, both in coding
+Arduino libraries, and using github.
+
+Keep an eye out for version 1.0, as this will signify that I think it's ready
+to be used in a non-testing environment!
+
+CHANGELOG
+v0.2 - 2011-05-12 - added example, refined code slightly
+v0.1 - 2011-05-10 -	initial upload

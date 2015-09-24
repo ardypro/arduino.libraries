@@ -1,0 +1,7 @@
+DS18B20	KEYWORD1
+
+getAddresses	KEYWORD2
+getError	KEYWORD2
+getTemp		KEYWORD2
+init	KEYWORD2
+addressToString	KEYWORD2
